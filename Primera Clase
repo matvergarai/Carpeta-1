@@ -1,0 +1,126 @@
+Informacion Previa 
+
+
+Abrir cmd (windows + cmd).
+Ingresar Comando " ipconfig/all " : Tarjeta de red del pc (adaptadores de red).
+Buscar direccion ip cualquiera " de la casa " (4 números).  
+--Se recomienda reservar 3 para obligatorios--.
+**Números ip ienen tamaño de un byte**.
+225 x 225 (max x max) = Cantidad max de computadores en un servidor.
+
+ej: 192 . 168 . 235. 1 "el último numero es el de la casa" ---> 1  (número de computador).
+
+"192.168" "direccion de red" todas iguales en la misma casa, estan en el switch, ejemplo universidad en router.
+
+Cortafuegos = REJA CON PUERTA : deja pasar lo que quiere.
+
+WIFI
+isp: internet server provider (entel, Claro, WOM, etc) --> Seguridad.
+
+TIPOS: 
+1.-Red hogar 
+ej : tablet, celular, consola, pc, etc.
+
+2.-Empresariales(cortafuego interno).
+
+3.-Otros.
+-----------------------------------------------------------------------------
+CLIENTE - SERVIDOR  .-BASICO(comunicación).
+
+Banalmente se "comparten" cosas.
+
+Ejemplo Estandar:
+Servidor: Maquina en data Center.
+Cliente: Chrome. 
+
+**Se pueden tener en un dispositivo, como un computador.  (Maquina-Cliente)**
+
+SERVIDORES COMUNES EN INTERNET 
+Relacionales : SQL (Dupla) ---> Boolean. ej: auto que posee o no radio.
+No-Relacionales: noSQL (guardan objetos).
+
+PROTOCOLOS DE RED
+
+1.-HTTP = hypertext trabsfer protocol
+2.-SMMTP = simple mail transfer protocol
+3.-TCP/IP = comunicacion de computadores pertenecientes a un misma red.
+
+
+PÁGINA WEB (ARCHIVO DE TEXTO + extencion(html))
+Paso 1 :
+<html>
+ 
+</html>
+--------------------
+Paso 2:
+<html>
+ <head>
+ </head>
+</html>
+--------------------
+Paso 3:
+<html>
+ <head>
+ </head>
+ <body> ----> lo que se ve en la página web. 
+ </body>
+ </html>
+ --------------------
+Paso 4:
+<html>
+ <head> ---> 
+ </head>
+ <body> 
+    <h1> --> tipo de letra tamaño 1.
+        Karaoke
+    </h1>
+ </body>
+ </html>
+
+TRABAJO EN CLASES
+
+
+<html>
+    <head>  
+
+    </head>
+    <body> 
+        <h1> 
+            Karaoke
+    </h1>
+
+    <h4>
+        WAKUWAKU
+    </h4>
+    <table>
+        <tr>
+            <td></td>
+            
+            <td></td>
+            bien
+            
+            <td></td>
+            
+        </tr>
+        <tr>
+            <td></td>
+            
+            <td></td>
+            
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            
+            <td></td>
+            
+            <td></td>
+        </tr>
+    </table>
+    
+
+    
+</body>
+</html>
+
+
